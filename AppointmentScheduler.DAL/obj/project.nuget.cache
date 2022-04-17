@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aCNU3xDAGH56uhSKCvickxLAzugLjLsHKVHUqR8bCPTVFhVLgyxpMOfAYwywoeS6TR18CKcZ7MWSXoIsFVbBng==",
+  "dgSpecHash": "y2vESiOOmlRJ9g0mCBAnmnT8NIykCv6cz5oaKsLxrJP52Ik40qGfYduchb2qignaFsIDaf3ePiKbXqS5KUT1/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\source\\repos\\TeamTasks\\AppointmentScheduler\\AppointmentScheduler.DAL\\AppointmentScheduler.DAL.csproj",
+  "projectFilePath": "C:\\Users\\erast\\source\\repos\\program-engineering-project\\AppointmentScheduler.DAL\\AppointmentScheduler.DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

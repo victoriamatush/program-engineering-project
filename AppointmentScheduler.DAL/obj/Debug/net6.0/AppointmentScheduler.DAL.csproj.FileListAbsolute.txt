@@ -1,0 +1,12 @@
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\bin\Debug\net6.0\AppointmentScheduler.DAL.deps.json
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\bin\Debug\net6.0\AppointmentScheduler.DAL.dll
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\bin\Debug\net6.0\AppointmentScheduler.DAL.pdb
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.csproj.AssemblyReference.cache
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.AssemblyInfoInputs.cache
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.AssemblyInfo.cs
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.csproj.CoreCompileInputs.cache
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.dll
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\refint\AppointmentScheduler.DAL.dll
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\AppointmentScheduler.DAL.pdb
+C:\Users\erast\Source\Repos\program-engineering-project\AppointmentScheduler.DAL\obj\Debug\net6.0\ref\AppointmentScheduler.DAL.dll

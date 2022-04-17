@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dK/2HOQAdNK7TConbTTtD8e7yFEed59Zw3zKSRzD/KgHvwbmL/D0XDZdChIo+aro0L3OjYFVooFUhMFmgCbgQA==",
+  "dgSpecHash": "PXcJGwZCpyOnuWgQyE9q1GYz39gbbGwAxbdtfs/Ms8MpoU8OJvKf63CmjUsnIFpyvMOy387XrQWuIXUXC3aWmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\source\\repos\\TeamTasks\\AppointmentScheduler\\AppointmentScheduler.BLL\\AppointmentScheduler.BLL.csproj",
+  "projectFilePath": "C:\\Users\\erast\\source\\repos\\program-engineering-project\\AppointmentScheduler.BLL\\AppointmentScheduler.BLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

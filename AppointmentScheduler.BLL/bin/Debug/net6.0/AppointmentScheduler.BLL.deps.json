@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppointmentScheduler.BLL/1.0.0": {
+        "dependencies": {
+          "AppointmentScheduler.DAL": "1.0.0"
+        },
+        "runtime": {
+          "AppointmentScheduler.BLL.dll": {}
+        }
+      },
+      "AppointmentScheduler.DAL/1.0.0": {
+        "runtime": {
+          "AppointmentScheduler.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppointmentScheduler.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppointmentScheduler.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
