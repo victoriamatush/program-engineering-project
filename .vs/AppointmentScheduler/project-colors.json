@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82575cb3-1b08-4714-b58d-fb0f3892552c": {
+      "ProjectGuid": "82575cb3-1b08-4714-b58d-fb0f3892552c",
+      "DisplayName": "AppointmentScheduler.BLL",
+      "ColorIndex": 0
+    },
+    "01543dff-8f70-409c-99ec-de961e14510b": {
+      "ProjectGuid": "01543dff-8f70-409c-99ec-de961e14510b",
+      "DisplayName": "AppointmentScheduler.DAL",
+      "ColorIndex": 1
+    },
+    "284bbae0-0e2f-45ab-a802-db3d4ad0fabd": {
+      "ProjectGuid": "284bbae0-0e2f-45ab-a802-db3d4ad0fabd",
+      "DisplayName": "AppointmentScheduler.Web",
+      "ColorIndex": 2
+    },
+    "f4a529be-86ed-4350-b0b2-0d1769fb6119": {
+      "ProjectGuid": "f4a529be-86ed-4350-b0b2-0d1769fb6119",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

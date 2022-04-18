@@ -1,7 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using Serilog;
+using static AppointmentScheduler.DAL.ApplicationDbContext;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Host.UseSerilog((ctx, lc) => lc
+    .WriteTo.Console()
+    .WriteTo.Seq("http://localhost:5341"));
+
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<AppointmentScheduler.DAL.ApplicationDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
 
@@ -9,6 +18,7 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
+
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
